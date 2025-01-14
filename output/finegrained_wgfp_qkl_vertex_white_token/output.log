@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/home/shkim/QT_DeiT_small/reproduce/zzz_single_gpu_train/./main_original.py", line 13, in <module>
-    from timm.data import Mixup
-ModuleNotFoundError: No module named 'timm'
