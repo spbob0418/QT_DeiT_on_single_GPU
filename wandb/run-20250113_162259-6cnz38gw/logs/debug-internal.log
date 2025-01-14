@@ -1,0 +1,16 @@
+{"time":"2025-01-13T16:22:59.748980327+09:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2025-01-13T16:22:59.749002997+09:00","level":"INFO","msg":"created symlink","path":"/home/shkim/QT_DeiT_small/reproduce/zzz_single_gpu_train/wandb/run-20250113_162259-6cnz38gw/logs/debug-core.log"}
+{"time":"2025-01-13T16:22:59.959062612+09:00","level":"INFO","msg":"created new stream","id":"6cnz38gw"}
+{"time":"2025-01-13T16:22:59.959113022+09:00","level":"INFO","msg":"stream: started","id":"6cnz38gw"}
+{"time":"2025-01-13T16:22:59.959176431+09:00","level":"INFO","msg":"sender: started","stream_id":"6cnz38gw"}
+{"time":"2025-01-13T16:22:59.959134392+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6cnz38gw"}}
+{"time":"2025-01-13T16:22:59.959213141+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6cnz38gw"}}
+{"time":"2025-01-13T16:23:00.299464219+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-13T16:23:27.700473337+09:00","level":"INFO","msg":"stream: closing","id":"6cnz38gw"}
+{"time":"2025-01-13T16:23:27.700545116+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-13T16:23:27.701319608+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-13T16:23:28.74802996+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-13T16:23:30.451881177+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6cnz38gw"}}
+{"time":"2025-01-13T16:23:30.451944836+09:00","level":"INFO","msg":"sender: closed","stream_id":"6cnz38gw"}
+{"time":"2025-01-13T16:23:30.451937366+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6cnz38gw"}}
+{"time":"2025-01-13T16:23:30.452067945+09:00","level":"INFO","msg":"stream: closed","id":"6cnz38gw"}

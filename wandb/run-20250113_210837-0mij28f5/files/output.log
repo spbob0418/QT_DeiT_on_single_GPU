@@ -1,0 +1,7 @@
+Creating model: fourbits_deit_small_patch16_224
+number of params: 22053736
+Start training for 90 epochs
+/home/shkim/anaconda3/envs/torch2/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/home/shkim/anaconda3/envs/torch2/lib/python3.10/site-packages/numpy/core/_methods.py:236: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)

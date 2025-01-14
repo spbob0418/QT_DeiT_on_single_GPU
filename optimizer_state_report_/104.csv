@@ -1,0 +1,2 @@
+epoch,iteration,exp_avg,exp_avg_sq,adamw_update
+0,10000,8.4302023140026e-09,2.0134070565023653e-15,1.562584230896391e-07

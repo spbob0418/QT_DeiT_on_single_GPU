@@ -1,0 +1,5 @@
+Creating model: fourbits_deit_small_patch16_224
+number of params: 22053736
+/home/shkim/anaconda3/envs/torch2/lib/python3.9/site-packages/timm/utils/cuda.py:40: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  self._scaler = torch.cuda.amp.GradScaler()
+Start training for 90 epochs
